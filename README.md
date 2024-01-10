@@ -1,7 +1,6 @@
 # AtliQ_Hardware_Sales_Report_Excel
 
-**Finance Report :
-**
+**Finance Report :**
 
 Analyzing Finance data through Profit and Loss (P&L) reports serves several critical purposes, aligning with financial management and strategic decision-making. Here are some additional findings and points that support the importance of such analysis:
 
